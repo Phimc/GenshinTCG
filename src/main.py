@@ -48,7 +48,7 @@ with ui.tab_panels(tabs).classes('w-full'):
 
     with ui.tab_panel(two):
         with ui.row().classes('full-width row wrap justify-center items-center'):
-            chosen = load_characters_from('./COL/characters.json')
+            chosen = load_characters_from('./collection/characters.json')
             for someone in chosen:
                 card_of_character(someone)
 

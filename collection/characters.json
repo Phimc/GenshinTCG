@@ -1,6 +1,6 @@
 [{
     "character_name": "Ganyu",
-    "picture_path": "D:/DOCS/PYScripts/GenshinTCG/RES/Ganyu.png",
+    "picture_path": "Ganyu.png",
     "energy":4,
     "skill_describe": {
       "attack": "流天射术:造成2点物理伤害",
@@ -15,7 +15,7 @@
 },
 {
   "character_name": "Leidian",
-  "picture_path": "D:/DOCS/PYScripts/GenshinTCG/RES/Leidian.png",
+  "picture_path": "Leidian.png",
   "energy":3,
   "skill_describe": {
     "attack": "源流:造成2点物理伤害",
@@ -30,7 +30,7 @@
 },
 {
   "character_name": "Keqing",
-  "picture_path": "D:/DOCS/PYScripts/GenshinTCG/RES/Keqing.png",
+  "picture_path": "Keqing.png",
   "energy":4,
   "skill_describe": {
     "attack": "云来剑法:造成2点物理伤害",
