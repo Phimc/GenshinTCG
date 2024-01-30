@@ -1,0 +1,9 @@
+[
+{"id":"000",
+"cost":{"element":"none","num":"0"},
+"name":"card_name",
+"label":"card_label",
+"picture_path":"card_pic_path",
+"effect":"card_effect_describe"
+}
+]

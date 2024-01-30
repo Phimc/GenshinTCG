@@ -1,0 +1,44 @@
+[{
+    "character_name": "Ganyu",
+    "picture_path": "D:/DOCS/PYScripts/GenshinTCG/RES/Ganyu.png",
+    "energy":4,
+    "skill_describe": {
+      "attack": "流天射术:造成2点物理伤害",
+      "attack_add":"霜华失:造成2点冰元素伤害,对所有后台角色造成2点穿透伤害",
+      "element": "山泽麟迹:造成1点冰元素伤害,生成冰莲",
+      "ultra": "降众天华:造成2点冰元素伤害,对所有后台角色造成1点穿透伤害,召唤冰灵珠"
+    },
+    "effect_describe": {
+      "effect1": "冰灵珠:结束阶段造成1点冰元素伤害,对所有后台敌人造成1点穿透伤害,可用次数2",
+      "effect2": "冰莲花:我方出战角色收到伤害时,抵消1点伤害"
+    }
+},
+{
+  "character_name": "Leidian",
+  "picture_path": "D:/DOCS/PYScripts/GenshinTCG/RES/Leidian.png",
+  "energy":3,
+  "skill_describe": {
+    "attack": "源流:造成2点物理伤害",
+    "element": "神变·恶曜开眼：召唤雷罚恶曜之眼",
+    "ultra": "奥义·梦想真说:造成3点雷元素伤害,其他我方角色获得两点充能",
+    "perk":"诸愿百眼之轮：战斗开始时，初始附属诸愿百眼之轮"
+  },
+  "effect_describe": {
+    "effect1": "雷罚恶曜之眼:结束阶段造成1点雷元素伤害 可用次数3;我方角色元素爆发造成的伤害+1",
+    "effect2": "其他我方角色使用元素爆发积累1点愿力(最高3);附属角色适用奥义·梦想真说时,消耗所有愿力,每点使造成的伤害+1"
+  }
+},
+{
+  "character_name": "Keqing",
+  "picture_path": "D:/DOCS/PYScripts/GenshinTCG/RES/Keqing.png",
+  "energy":4,
+  "skill_describe": {
+    "attack": "云来剑法:造成2点物理伤害",
+    "element": "星斗归位:造成3点雷元素伤害,生成手牌雷契",
+    "ultra": "天街巡游:造成4点雷元素伤害,对所有地方后台角色造成3点穿透伤害"
+  },
+  "effect_describe": {
+    "effect1": "雷契：使用后刻晴上场，立即发动一次星斗归位，获得雷元素附魔；若刻晴使用星斗归位,则弃置此牌获得雷元素附魔"
+  }
+}
+]
