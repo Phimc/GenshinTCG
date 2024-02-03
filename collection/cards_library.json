@@ -1,9 +1,24 @@
 [
-{"id":"000",
-"cost":{"element":"none","num":"0"},
-"name":"card_name",
-"label":"card_label",
-"picture_path":"card_pic_path",
-"effect":"card_effect_describe"
-}
-]
+    {"id":"000",
+    "cost":{"element":"none","num":"0"},
+    "name":"card_name",
+    "label":"card_label",
+    "picture_path":"card_pic_path",
+    "effect":"card_effect_describe"
+    },
+    {"id":"001",
+    "cost":{"element":"any","num":"3"},
+    "name":"裁叶萃光",
+    "label":"Equipment",
+    "picture_path":"\\裁叶萃光.png",
+    "effect":"角色造成的伤害+1\n角色使用普通攻击后,生成1个随机类型的元素骰"
+    },
+    {"id":"002",
+    "cost":{"element":"any","num":"3"},
+    "name":"和璞鸢",
+    "label":"Equipment",
+    "picture_path":"\\和璞鸢.png",
+    "effect":"角色造成的伤害+1\n角色使用技能后:直到回合结束前,此牌所提供的伤害加成额外+1(最多累积+2)"
+    }
+    
+    ]
